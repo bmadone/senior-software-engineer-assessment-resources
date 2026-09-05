@@ -66,5 +66,6 @@
 
 -   [Hugging Face Papers](https://huggingface.co/papers)
 -   [The Batch - deeplearning.ai newsletter](https://www.deeplearning.ai/the-batch/)
+-   [AI Weekly - discover what AI experts are reading and sharing right now](https://aiweekly.co/)
 -   [Simon Willison's blog](https://simonwillison.net/)
 -   [Latent Space podcast](https://www.latent.space/)
